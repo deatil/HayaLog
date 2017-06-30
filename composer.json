@@ -1,1 +1,27 @@
-{    "name": "HayaLog/Log",    "type": "library",    "keywords": [        "HayaLog",        "Log",        "Psr"    ],    "description": "HayaLog is PSR-3 interface.",    "homepage": "http://github.com/deatil",    "license": "MIT",    "authors": [        {            "name": "Deatil",            "email": "2217957370@qq.com",            "homepage": "http://github.com/deatil"        }    ],    "require": {        "php": ">=5.5.0",    },    "autoload": {        "psr-4": {            "Psr\\Log\\": "src/Psr/Log"        }    }}
+{
+    "name": "HayaLog/Log",
+    "type": "library",
+    "keywords": [
+        "HayaLog",
+        "Log",
+        "Psr"
+    ],
+    "description": "HayaLog is PSR-3 interface.",
+    "homepage": "http://github.com/deatil",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Deatil",
+            "email": "no@qq.com",
+            "homepage": "http://github.com/deatil"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Psr\\Log\\": "src/Psr/Log"
+        }
+    }
+}
