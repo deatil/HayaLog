@@ -1,2 +1,2 @@
 # HayaLog
-日志PSR接口
+PSR-3 日志接口
